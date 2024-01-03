@@ -1,0 +1,9 @@
+# config.yaml
+
+send_media_content: true
+send_text: false
+
+
+# Имена каналов (source и destination)
+source_channel_username: '@source_channel'
+destination_channel_username: '@destination_channel'
